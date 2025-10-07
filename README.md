@@ -1,2 +1,18 @@
 # Resume-Screening-with-Machine-Learning.
-his project uses Machine Learning and NLP to automatically screen resumes and classify candidates based on job relevance. It extracts key skills, cleans text data, and trains models for accurate candidate shortlisting. Built with Python, Scikit-learn, and NLP libraries in Jupyter Notebook.
+This project automates the process of resume screening using machine learning and natural language processing (NLP). It analyzes resumes, extracts key skills and qualifications, and classifies candidates based on their suitability for specific job roles.
+
+Features:-
+Resume text preprocessing and cleaning
+Keyword and skill extraction using NLP techniques
+Feature engineering for candidate profiling
+Model training for candidate shortlisting
+Evaluation of classification accuracy
+Easy integration with HR systems for automation
+
+Technologies Used:-
+Python
+Scikit-learn, Pandas, NumPy
+NLTK / spaCy for NLP
+Jupyter Notebook for model experimentation
+
+
